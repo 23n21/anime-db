@@ -2,4 +2,4 @@
 
 !.gitignore
 !README.md
-!anime-offline-database.mockend.json
+!.mockend.json
